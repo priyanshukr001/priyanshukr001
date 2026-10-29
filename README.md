@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>🎓 I'm a **Mathematics & Computing undergraduate at DTU**<br><br>🔭 I’m currently working on **AI/ML & Full-Stack projects**<br><br>👯 I’m looking to collaborate on **Open Source, AI/ML & Web Development projects**<br><br>🤝 I’m looking for help with **building scalable AI-powered applications**<br><br>🌱 I’m currently learning **Data Structures & Algorithms, MERN Stack & Generative AI**<br><br>💬 Ask me about **C++, DSA, React.js, Node.js, Machine Learning & RAG**<br><br>⚡ Fun fact: **I enjoy turning ideas into projects — from hackathon prototypes to AI-powered applications 🚀**
+## 👨‍💻 About Me🔭 I’m currently working on **AI/ML & Full-Stack projects**<br><br>👯 I’m looking to collaborate on **Open Source, AI/ML & Web Development projects**<br><br>🤝 I’m looking for help with **building scalable AI-powered applications**<br><br>🌱 I’m currently learning **Data Structures & Algorithms, MERN Stack & Generative AI**<br><br>💬 Ask me about **C++, DSA, React.js, Node.js, Machine Learning & RAG**<br><br>⚡ Fun fact: **I enjoy turning ideas into projects — from hackathon prototypes to AI-powered applications 🚀**
 
 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshukrofficial001@gmail.com) 
